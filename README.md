@@ -2,6 +2,7 @@
 Simple site for building light and dark themes.
 
 ### Result: (https://codepen.io/SAV_X/pen/GRdKWLJ)
+<img src="https://github.com/viniciusalves23/Light-and-Dark-Themes/blob/master/Light-and-Dark-Themes.gif?raw=true">
 
 <img src="https://github.com/viniciusalves23/Light-and-Dark-Themes/blob/main/Light-and-Dark-Themes.gif?raw=true">
 
